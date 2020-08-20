@@ -32,7 +32,7 @@
   </a>  
 </p>
 
-### Frameworks
+### Skills
 
 <p align="left">
   <a href="#">
