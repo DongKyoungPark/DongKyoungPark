@@ -18,15 +18,15 @@
   </a>
 
   <a href="#">
-    <img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
   <a href="#">
-    <img src="./svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
   <a href="#">
-    <img src="./svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
 
@@ -34,11 +34,11 @@
 
 <p align="left">
   <a href="#">
-    <img src="./svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
   <a href="#">
-    <img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="left">
  <a href="#">
-    <img src="./svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"/>
   </a> 
 </p>
 
