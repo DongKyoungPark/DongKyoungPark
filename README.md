@@ -56,6 +56,14 @@
   </a> 
 </p>
 
+### Resume
+
+<p align="left">
+ <a href="https://www.notion.so/e1lol/34f21cb3d1474e1abcd25ef98efd4c7a">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/blogs/notion.svg" alt="notion" style="vertical-align:top; margin:6px 4px"/>
+  </a> 
+</p>
+
 ### Github Stats
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
