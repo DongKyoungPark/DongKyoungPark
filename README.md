@@ -55,7 +55,7 @@
 ### Github Stats
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
-<img align="left" alt="GIF"  src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
+<img align="left" alt="GIF" width="480" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
 
 <img align="right" height="200" width="300"  alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
