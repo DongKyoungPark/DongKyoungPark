@@ -40,6 +40,10 @@
   </a>
 
   <a href="#">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/redux.svg" alt="react" style="vertical-align:top; margin:6px 4px"/>
+  </a>
+
+  <a href="#">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
