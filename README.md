@@ -55,9 +55,9 @@
 ### Github Stats
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
-<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
+<img align="left" alt="GIF" padding-right="0" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
 
-<img align="right" height="200" width="340" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="200" width="340" padding-left="0" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <!--
 **DongKyoungPark/DongKyoungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
