@@ -52,17 +52,13 @@
   </a> 
 </p>
 
----
-
 ### Github Stats
 
-<div display="flex" flex-direction="row">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark)
+<!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
+<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
 
 <img align="right" height="200" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-</div>
 <!--
 **DongKyoungPark/DongKyoungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
