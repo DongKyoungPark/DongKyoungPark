@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
   <a href="#">
