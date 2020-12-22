@@ -107,7 +107,7 @@
 <!-- <img align="right" height="200" width="300"  alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 <img align="right" height="200" width="300"  alt="GIF" src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/developer.gif" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=Hello%World!&fontSize=80&animation=fadeIn&fontAlignY=55" alt='Hello World'/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hello%World!&fontSize=70&animation=fadeIn&fontAlignY=30&rotate=13&fontAlign=75" alt='Hello World'/>
 
 <!--
 **DongKyoungPark/DongKyoungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
