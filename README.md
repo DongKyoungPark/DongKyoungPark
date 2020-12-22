@@ -12,7 +12,7 @@
 
 <!-- ## Developer Tech -->
 
-#
+---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Developer Tech&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Developer Tech'/>
 
@@ -95,7 +95,7 @@
   </a> 
 </p>
 
-#
+---
 
 ### Github Stats
 
