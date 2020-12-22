@@ -107,8 +107,6 @@
 <!-- <img align="right" height="200" width="300"  alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 <img align="right" height="200" width="300"  alt="GIF" src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/developer.gif" />
 
----
-
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=Hello%World!&fontSize=80&animation=fadeIn&fontAlignY=55)
 
 <!--
