@@ -99,7 +99,7 @@
 
 <!-- ### Github Stats -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Github Stats&fontSize=20&animation=fadeIn&fontAlign=8&fontAlignY=55" alt='Github Stats'/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Github Stats&fontSize=20&animation=fadeIn&fontAlign=8.5&fontAlignY=55" alt='Github Stats'/>
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
 <img align="left" alt="GIF" width="480" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
