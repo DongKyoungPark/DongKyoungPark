@@ -14,9 +14,10 @@
 
 #
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Developer Tech&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Developer Tech'/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Developer Tech&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Developer Tech'/>
 
-### Languages
+<!-- ### Languages -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Languages&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Languages'/>
 
 <p align="left">
   <a href="#">
@@ -36,7 +37,8 @@
   </a>  
 </p>
 
-### Skills
+<!-- ### Skills -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Skills&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Skills'/>
 
 <p align="left">
   <a href="https://ko.reactjs.org/">
@@ -60,7 +62,8 @@
   </a>  
 </p>
 
-### Tools
+<!-- ### Tools -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Tools&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Tools'/>
 
 <p align="left">
  <a href="#">
@@ -76,7 +79,8 @@
   </a>
 </p>
 
-### Resume
+<!-- ### Resume -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Resume&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Resume'/>
 
 <p align="left">
  <a href="https://www.notion.so/e1lol/34f21cb3d1474e1abcd25ef98efd4c7a">
@@ -87,7 +91,8 @@
   </a> 
 </p>
 
-### Github Stats
+<!-- ### Github Stats -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Github Stats&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Github Stats'/>
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
 <img align="left" alt="GIF" width="480" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
