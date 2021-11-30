@@ -63,6 +63,10 @@
 
    <a href="https://material-ui.com/">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/Material-UI.svg" alt="material-ui" style="vertical-align:top; margin:6px 4px"/>
+  </a>
+
+   <a href="https://material-ui.com/">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
 
@@ -89,6 +93,10 @@
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px"/>
   </a>
 </p>
 
