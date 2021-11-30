@@ -72,7 +72,7 @@
 
 <p align="left">
  <a href="#">
-    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"/>
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/vscode.svg" alt="vscode" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
   <a href="#">
@@ -91,10 +91,10 @@
 <!-- <p align="left">
  <a href="https://www.notion.so/e1lol/34f21cb3d1474e1abcd25ef98efd4c7a">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/blogs/notion.svg" alt="notion" style="vertical-align:top; margin:6px 4px"/>
-  </a> 
+  </a>
   <a href="https://www.canva.com/design/DAEB7QfAjNA/31FtMmdXjFcJ0WsPPRroWw/view?utm_content=DAEB7QfAjNA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/blogs/canva.svg" alt="canva" style="vertical-align:top; margin:6px 4px"/>
-  </a> 
+  </a>
 </p> -->
 
 ---
