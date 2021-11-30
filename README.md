@@ -80,10 +80,6 @@
   </a>
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px"/>
-  </a>
-
-  <a href="#">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/tools/pigma.svg" alt="pigma" style="vertical-align:top; margin:6px 4px"/>
   </a> 
   
