@@ -48,6 +48,10 @@
   <a href="https://ko.reactjs.org/">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"/>
   </a>
+  
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/nextJS.svg" alt="nextJS" style="vertical-align:top; margin:6px 4px"/>
+  </a>
 
    <a href="https://reactrouter.com/web/guides/quick-start">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/react-router.svg" alt="react-router" style="vertical-align:top; margin:6px 4px"/>
