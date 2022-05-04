@@ -23,20 +23,24 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=footer&text=Languages&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Languages'/> -->
 
 <p align="left">
-  <a href="#">
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
-  <a href="#">
+  <a href="https://developer.mozilla.org/ko/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
-  <a href="#">
+  <a href="https://sass-lang.com/documentation">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"/>
   </a>
 
-  <a href="#">
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"/>
+  </a>  
+
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/typescript.svg" alt="js" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
 
@@ -71,6 +75,14 @@
 
    <a href="https://nodejs.org/ko/">
     <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"/>
+  </a>  
+
+   <a href="https://webpack.js.org/">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/webpack.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"/>
+  </a>  
+
+   <a href="https://babeljs.io/docs/en/">
+    <img src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/dev/languages/babel.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"/>
   </a>  
 </p>
 
